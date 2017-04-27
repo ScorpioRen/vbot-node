@@ -1,0 +1,20 @@
+{
+  "name": "vbot-node",
+  "version": "1.0.0",
+  "description": "微信机器人node版本",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "微信",
+    "自动",
+    "机器人"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ScorpioRen/vbot-node.git"
+  },
+  "author": "viron",
+  "license": "ISC"
+}
